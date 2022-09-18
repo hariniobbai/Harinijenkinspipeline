@@ -4,7 +4,7 @@ pipeline {
     stages {
         stage('Hello') {
             steps {
-                echo 'Hello World Hi I'm Harini working in cognizant'
+                echo 'Hello World Hi I'm Harini working in CTS'
             }
         }
          stage('build') {
